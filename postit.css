@@ -73,11 +73,11 @@ main p {
   transform: rotate(-4deg);
 }
 #post7 {
-  animation: smack 1s 2s backwards;
+  animation: smack 1s 1.7s backwards;
   transform: rotate(-2deg);
 }
 #post8 {
-  animation: smack 1s 0s backwards;
+  animation: smack 1s 0.2s backwards;
   transform: rotate(3deg);
 }
 
